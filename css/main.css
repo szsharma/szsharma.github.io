@@ -1,0 +1,50 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template/scrolling-nav)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+header {
+  padding: 156px 0 100px;
+  background-color: black;
+  color: #FF5733;
+}
+
+.title {
+	font-family: 'Prompt';
+	font-size: 60px;
+} 
+/*
+class selector
+*/
+
+section {
+  padding: 150px 0;
+}
+
+.navbar {
+	background-color: black;
+}
+
+.navbar-brand {
+	font-family: 'Prompt';
+	color: #FF5733;
+}
+
+/*
+class selector
+*/
+
+footer {
+	background-color: black;
+}
+
+img {
+	width: 20%;
+}
+
+#services {
+	background-color: #FF5733;
+}
+/*
+id selector
+*/
