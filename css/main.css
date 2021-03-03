@@ -9,10 +9,18 @@ header {
   color: #FF5733;
 }
 
+/* original orange: #FF5733; */
+
+
 .title {
 	font-family: 'Prompt';
 	font-size: 60px;
 } 
+
+.p-title {
+	font-family: 'Red Hat Display';
+	font-size: 30px;
+}
 /*
 class selector
 */
@@ -42,8 +50,27 @@ img {
 	width: 20%;
 }
 
-#services {
+#submit_button {
 	background-color: #FF5733;
+	color: white;
+	font-family: 'Prompt';
+}
+#services, #contact {
+	background-color: #ededed;
+	color: black;
+}
+
+#color_title {
+	color: white;
+	background-color: #FF5733;
+
+}
+
+
+/* id selector above */
+
+#company-title {
+	font-family: Prompt;
 }
 /*
 id selector
