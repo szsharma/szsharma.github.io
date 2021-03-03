@@ -1,6 +1,6 @@
 Shlok Sharma's First Wesleyan COMP 333 Project (HTML site): "Quality Notes Music Rating Platform"
 
-Link to site: szsharma.github.io
+Link to site: https://szsharma.github.io
 
 Original template used: "Start Bootstrap – Scrolling Nav"
 	link: https://startbootstrap.com/template/scrolling-nav/
